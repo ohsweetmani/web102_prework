@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Added Most Backers Card
+* [x] Added Most Backers Card
 
 ## Video Walkthrough
 
